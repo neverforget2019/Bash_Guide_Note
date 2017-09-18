@@ -1,5 +1,6 @@
 #!/bin/bash
 # ########################################################
+# for.sh
 # Shell脚本中for循环的用法
 # ########################################################
 
@@ -40,6 +41,6 @@ function func_for_string()
 }
 
 # 调用函数
-# func_for_number
+func_for_number
 func_for_string
 func_for_file
