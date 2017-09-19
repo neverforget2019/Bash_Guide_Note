@@ -1,4 +1,4 @@
-# Shell编程练习及实例
+# Shell编程练习及示例
 
 本项目记录了工作中积累的Shell脚本编程经验，主要参考**高级Bash脚本编程指南(Advance Bash-Scripting Guide)**。
 
